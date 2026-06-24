@@ -1,0 +1,15 @@
+{
+  "input_file": "/Users/kanakamurthykhavale/Documents/Codex/2026-06-23/so-i-need-to-build-a/outputs/nifty-long-only-strategy/Nifty 50 Historical Data (1).csv",
+  "output_file": "/Users/kanakamurthykhavale/Documents/Codex/2026-06-23/so-i-need-to-build-a/outputs/nifty-long-only-strategy/nifty_long_only_signals.csv",
+  "rows": 2479,
+  "first_date": "2016-01-01",
+  "last_date": "2026-01-01",
+  "strategy": "Long-only 12/26 EMA bullish cross with 50-SMA trend and RSI momentum filter; exits on bearish cross, RSI weakness, or close below 50-SMA.",
+  "validation": {
+    "suppressed_invalid_exits": 741,
+    "suppressed_duplicate_entries": 0,
+    "entries": 29,
+    "exits": 29,
+    "ending_position": 0
+  }
+}
